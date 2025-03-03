@@ -36,3 +36,10 @@ JavaScript is a dynamically and weakly typed programming language
     - typeof var === "string"
 - Check if a variable contains a number value
     - typeof var === "number"
+
+### Error Handling 
+The process of **anticipating**, **detecting**, and **managing** errors that occur during program execution. Its primary goal is to ensure that your application can gracefully deal with unexpected situations without crashing. This can be achieved using try 
+- Try-catch 
+    - Typical for handling unexpected and unpredictable errors
+- Conditional checks
+    - Typical for handling expected and predictable errors
